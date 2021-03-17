@@ -1,0 +1,10 @@
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\bin\Debug\NuggetTest.exe.config
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\bin\Debug\NuggetTest.exe
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\bin\Debug\NuggetTest.pdb
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\bin\Debug\UtfUnknown.dll
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\bin\Debug\UtfUnknown.xml
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\obj\Debug\NuggetTest.csprojAssemblyReference.cache
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\obj\Debug\NuggetTest.csproj.CoreCompileInputs.cache
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\obj\Debug\NuggetTest.csproj.CopyComplete
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\obj\Debug\NuggetTest.exe
+c:\Users\Tomek\source\new\test_1\NuggetTest\NuggetTest\obj\Debug\NuggetTest.pdb
